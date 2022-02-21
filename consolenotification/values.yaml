@@ -5,8 +5,8 @@ ocp-console-notification:
   ## The background color that should be used for the banner
   backgroundColor: teal
   ## The color of the text that will appear in the banner
-  color: "#90EE90"
+  color: "#fff"
   ## The location of the banner. Options: BannerTop, BannerBottom, BannerTopBottom
   location: BannerTop
   ## The text that should be displayed in the banner. This value is required for the banner to be created
-  text: "Dry run for Sterling"
+  text: " Custom Cluster Description"
